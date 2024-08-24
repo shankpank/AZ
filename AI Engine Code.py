@@ -1,4 +1,4 @@
-Below is a simplified Python code example that demonstrates how various components of the AI engine might interact with each other. This code is conceptual and intended to provide a basic understanding of how these integrations could be implemented in a real-world system.
+#Below is a simplified Python code example that demonstrates how various components of the AI engine might interact with each other. This code is conceptual and intended to provide a basic understanding of how these integrations could be implemented in a real-world system.
 
 ### 1. **Connecting to Amazon Bedrock for NL Processing**
 
